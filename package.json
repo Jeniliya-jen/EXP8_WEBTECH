@@ -1,0 +1,9 @@
+{
+  "name": "exp8-node-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Experiment 8: server-side application using Node.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
